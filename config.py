@@ -1,0 +1,4 @@
+api_id = "25058272620"
+api_hash = "91c0e827626264d86779091033"
+bot_token = "8118302577373yYKO0FFVR7HuE3IO2ZMj8xB_Z56lhqs"
+auth_users = [5527236251]
